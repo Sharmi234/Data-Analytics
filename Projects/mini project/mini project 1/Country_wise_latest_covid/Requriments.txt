@@ -1,0 +1,6 @@
+1.) print top 10 max confirmed cases countries ?
+2.) print minimum 10 confirmed cases countries ?
+3.) in Europe Region which country have max death ?
+4.) in Americas Region which country have max death ?
+5.) in Africa Region which country have more Recovered cases ?
+6.) print the top Region which has most recovered cases ?

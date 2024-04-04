@@ -1,0 +1,66 @@
+data visulaization have
+1.Tableau
+2.powerbi
+
+@Tableau-> easy to access than excel
+->flowchart,charts/graphs
+->assigns symbols too
+->platform independent software
+
+*basic data types:-> 6 types
+1.string
+2.Numerical->integers and float are two types
+3.Date->date
+4.Date-time->date with time
+5.Boolean->true,false
+6.Geographical->geo specific data->eg:city,country
+
+*symbols for data types
+1.Abc->strings(blue)
+2.#->numerical(green)
+3.calendar icon->date(blue)
+4.calendar and time icon(clock)->date and time(blue)
+5.T/F->boolean(blue)
+6.globe or earth icon->geographical data(blue)
+
+alphanumeric->alphabets and numerics->are all string
+
+*aggregration->
+    sum(10,20,30)=60->aggregration/agg value.
+    avergae,percentile,standard deviation,max,count,min
+
+*main data types-> 2types
+ 1.dimensions->coloured in blue
+    ->any data which is in discrete form
+   ->expert-count and count distinct functions,all aggregration function cannot be applied
+
+ 2. measures->coloured in green
+   ->any data which is in continous form(series of data)
+ -> all aggregration function can be used
+
+*tableau products
+1.tableau desktop->data visualizaion, 2 versions/variation
+   1.tableau professional->license, work for free only 14 days
+   2.tableau public->free forever , no license
+2.tableau server
+3.tableau reader
+4.tableau prep
+5.tableau online
+6.tableau public
+
+link to download:https://www.tableau.com/en-gb/products/public/download
+
+*in tableau, to remove unwanted values we can use data interpreter in the software.
+fields->no of columns
+
+*workbook=data+worksheets+dashboards+stories
+
+*file extensions in 2 ways
+   .twb ->tableau workbook
+    data cant been seen by other person
+and .twbx-> tableau package workbook
+   x->package
+  normally will do in twbx
+
+*
+

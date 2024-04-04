@@ -1,0 +1,81 @@
+EXCEL By DA
+(17-1-24)
+
+@  i need tocreate a new col which will add the   "pokeball" and "great ball"
+
+@ ceiling-> count the cell
+
+@ first we have to give = into the cell and must have to give
+name formula
+
+@in this case we can give =cel_name1 + cel_name2 + cel_name3
+
+and this formula we have to put into a column
+
+@B3+C3+D3 or first cell formula and drag rest automatically will be updated or =AVERAGE(A1:A20)
+
+@AVERAGE= B3+C3+D3/3
+
+@> GREATER THAN
+@< LESSER THAN
+@>= GREATER THAN EQUAL TOO
+@<= LESSER THAN EQUAL TOO
+EG:  B3>C3
+     B3<C3
+     B3<=C3
+     B3>=C3
+
+
+
+18-01-24
+
+@Concatenate -> CONCATENATE(B2,"-",C2)
+
+@and-> AND(B2="grass",C2>70)
+
+@count->to find the total number of a column,
+        *count will work when you have only integers
+         COUNT(D2-D21)
+
+@IF-> =IF(B2,"Fire","yes","no)
+
+@countA-> countA(A2-A5)-> total number of name
+
+@counta-> counta(C2:C21)-> will not count the blank spaces
+
+@countblank-> to find the blank space in the column
+            countBLANK(C2:C21)
+
+@(total>500,"G500","L500")
+
+
+19-01-24-> based on last class did practise sir given questions
+
+20-01-24
+
+@left and right
+    =LEFT(A2,1)  , =RIGHT(A2,3)
+
+@MAX AND MIN
+    =MAX(C2), =MIN(C2)
+
+@upper and lower
+    =UPPER(C2), =LOWER(C2)
+
+@average
+   =AVERAGE(C2)
+
+@TRIM-> removing spaces in the respective column , =TRIM(C2)
+
+@22-01-23-> class 3
+   sum, average 
+
+@23-=1-24->class 4
+
+@sort and filter
+@conditional formating-> high, data graph, icons, etc
+@formulas-> 
+   changing the respective cell name
+@data -> new query
+   can take the link from web and get the data in excel
+   and databases already exist in excel can use it
